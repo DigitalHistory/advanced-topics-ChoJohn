@@ -8,15 +8,33 @@
 /* We start with the spatial history assignment */
 
 /* add any styling for the main div here */
+body {
+  background-color: white;
+  color: black;
+}
+
+.navbar-default {
+  background-color: gray;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
 div.container {
+  padding-left: 5vh;
+  padding-right: 5vh;
 }
 
 div#mapcontainer {
   font-family:Arial, sans-serif;
-  font-size:11px;
-  border:6px double #5E5C63;
-  width:66%;
-  float:left;
+  font-size:12px;
+  width:100%;
+  height: 65%;
 }
 
 /* you can change the size of the map here if you want you can even
@@ -24,14 +42,17 @@ div#mapcontainer {
    width be set by the containing element, but constrain the height
 */
 div#map_canvas {
-  height:80vh;                  /*80 % of the viewport height*/
+  height: 65vh;                  /*80 % of the viewport height*/
+  width: 80%;
+  float: left;
 }
 
 /* this is the legend div. Can you make it into a right sidebar? you may
 have to add some extra css to the mapcontainer div */
 div#map_legend {
-    max-width:30%;
-    float:left;
+    width:20%;
+    float:right;
+    padding-left: 1vh;
 }
 
 /* if you want, you can make the text in the legend less ugly by adding
@@ -60,7 +81,7 @@ button#hide {
   background:orange;
 }
 button#show {
-  background:green;
+  background:yellow;
 }
 
 /* use these last three to style the text inside the
@@ -117,4 +138,3 @@ div.gm-style-iw blockquote {
    background-color: #F4F4F4;
    padding: 10px;
 }
-
