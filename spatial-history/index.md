@@ -1,8 +1,6 @@
 # The Next Silicon Valley
 
-<p>
 Silicon Valley is a section in San Francisco Bay Area in the United States. It is notorious for the amount of tech companies that exists in the area. Also known as the ‘Valley’, receives its name from its location, Santa Clara Valley. The name ‘silicon’ is derived from the large amount of silicon chip usage. Silicon Valley is the home of many companies’ headquarters in the Fortune 1000 and thousands of startup companies. A company must carefully consider their headquarters’ location. The company must surround themselves with the right resources and a strong network for them to increase their chances of success. There are many considerable cities for a startup to begin their journey. Especially Silicon Valley, where one-third of the United States’ venture capital is invested in. However with the competition growing and companies fighting for attention, startups are now considering other cities to grow their million dollar idea. Toronto is on top of companies’ list of cities due to their infrastructure constantly producing highly skilled workers. The location is unique with its resources and the cost of operation is lower than Silicon Valley.
-</p>
 
 <div class="markers">
   <!-- these buttons hide/show all the markers  -->
@@ -42,6 +40,7 @@ Toronto's future high-tech neighbourhood [<a href="https://www.thestar.com/news/
 
 <p>
 Location is a key component to a company's success. The area must have a high population with the right resources and a strong network. Toronto is the most populated city in Canada. It is the home to 4,753,120 people, making it the seventh largest city in North America [<a href="http://canada.businesschief.com/top10/1003/Canadas-Top-10-Most-Populous-Cities">2</a>]. It may not be the largest city in the world, however, it is the world’s most diverse city in the world [<a href="http://www.metronews.ca/news/toronto/2016/05/16/toronto-the-diverse.html">5</a>].
+</p>
 
 </br>
 <figure style="text-align: center;">
