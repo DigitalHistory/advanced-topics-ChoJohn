@@ -1,33 +1,32 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
-
-## Use headings only if you want to have subsections in your essay
-
 <div class="sidepanel">
               <!-- This is the div where all the popcorn action will hapen -->
               <div id="popcorn-container">
               </div>
             </div>
 
+## Introduction
+The United States’ involvement in the Vietnam War dramatically increased approximately 5 years after the beginning of the war. Deploying triple the amount of troops in the early 1960s. Hartmut Lau, a graduate from West Point in 1967 was given the choice to serve in the United States or Europe. However, he volunteered to go to Vietnam during one of the war’s worst years of combat. In his career, he was awarded the Silver Star medal, the Bronze Star medal, and the purple heart. After serving for 24 years in the army, Hartmut retired ranking as a colonel. Five years after his retirement, he met his wife, Barbara. Hartmut and Barbara have been married for over 20 years, however, Hartmut never shared any stories of Vietnam. Hartmut is one of many soldiers that have not discussed their war experiences. During the war, soldiers are in many life or death situations and are exposed to inhuman actions and visuals. Soldier’s mental health is affected due to the components of war. After the war, soldiers have to reintegrate back into society. However, this is difficult for many because of side effects of the war such as posttraumatic stress disorder (PTSD).
+
+## Difficulty of Sharing
+Hartmut and Barbara have shared many memories and have shared over 20 years of their lives together. Hartmut has shared other parts of his life such as stories of West Point to his loved one. Barbara has never heard anything about his time in Vietnam. “You’ve told a lot about West Point. But you’ve never told me anything about Vietnam.” <a href="javascript:seek(3)">(0:03)</a>. It is common for veterans to not share their experiences in the war. A study shows that 31% of Vietnam veterans have developed PTSD during their lifetime and 15% were currently suffering from PTSD[^first]. It is understandable for soldiers to not share stories that can cause high percentages of PTSD from their experience.
+
+## During War
+Before soldiers are deployed to war, they are trained to do one thing, complete the mission. “You perform the mission that you’re given. You do your job and then you either perform well or you don’t.” <a href="javascript:seek(6)">(0:06)</a>. Hartmut was doing what he was trained to do, to stay alive and collect intel. Soldiers such as Hartmut were trained to go through the enemy’s corpses to collect any maps, papers, or any intelligence value. However, soldiers would find diaries and pictures of their enemy’s loved ones and family. “And I twirled around and I had an M16, and I saw this guy and I killed him. And it was after he was going down that it hit my consciousness that he had his hands up and wanted to surrender.” <a href="javascript:seek(46)">(0:46)</a>. Hartmut has killed a person who wanted to surrender. Killing someone is known to have psychological effects on a person. “The effects from combat-related PTSD has been known since World War 1”[^second]. However, Hartmut had to live with knowing he has killed a man who wanted to surrender. “You know when you’re out there and you go through pockets on a corpse and you pull out a little diary and you open it up, and it’s got a picture of a woman and a baby. You know...Couldn't do it.” <a href="javascript:seek(80)">(1:20)</a>. This action has impacted him greatly that he could not complete the one thing he was trained to do.
 
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
-
-    Footnote 1 link[^first].
-
-    Footnote 2 link[^second].
-
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
+## After War
+After his time in Vietnam, Hartmut was able to reintegrate back into society. He was able to fall in love and be married for over 20 years of his life. Hartmut shared many things with Barbara, except one part of his life. “Vietnam veterans with PTSD may have more dissociative symptoms than any other veterans” [^third]. Unfortunately, not all Vietnam veterans were able to integrate back into society. The soldiers that are exposed to traumatic experiences show symptoms of PTSD soon after. This eventually leads to alcohol and substance abuse. [^fourth]. Hartmut was able to leave Vietnam although his memories and his actions came back with him. “I mean, you talk about no impact, but, I can close my eyes and see that guy collapsing with his hands up. And I think about that kid often.” <a href="javascript:seek(106)">(1:46)</a>. Barbara responds as Hartmut is “perfectly normal” but that is not the case. Soldiers with no symptoms of PTSD does not mean they are “perfectly normal”. Veterans still have to live the rest of their lives with the vivid images and their actions they may regret.
 
 
-[^first]: Footnote **can have markup**
+## Conclusion
+Veterans such as Hartmut has gone through a traumatic experience and are expected to reintegrate back into society. Soldiers must live with memories they do not want to discuss, live with the traumatic events and actions they regret. After returning from war, they live with the vivid images that are engraved in their brain. Family and friends may find the veterans “normal”, however, the reality for these veterans is that they must live their lives with the disturbing memories.
 
-    and multiple paragraphs.
+## Reference:
 
-[^second]: Footnote text.
+[^first]: <a href="http://science.sciencemag.org/content/313/5789/979.full">Dohrenwend, Bruce P., et al. “The Psychological Risks of Vietnam for U.S. Veterans: A Revisit with New Data and Methods.” Science, American Association for the Advancement of Science, 18 Aug. 2006, science.sciencemag.org/content/313/5789/979.</a>
+
+[^second]: <a href="https://ajp-psychiatryonline-org.myaccess.library.utoronto.ca/doi/pdf/10.1176/ajp.150.2.235">Bremner, Douglas J., et al. “Childhood Physical Abuse and Combat-Related Posttraumatic Stress Disorder in Vietnam Veterans.” American Journal of Psychiatry, ajp.psychiatryonline.org/doi/abs/10.1176/ajp.150.2.235.</a>
+
+[^third]:  <a href="https://ajp-psychiatryonline-org.myaccess.library.utoronto.ca/doi/pdf/10.1176/ajp.149.3.328">Bremner, Douglas J., et al. “Dissociation and Posttraumatic Stress Disorder in Vietnam Combat Veterans.” American Journal of Psychiatry, ajp.psychiatryonline.org/doi/abs/10.1176/ajp.149.3.328.</a>
+
+[^fourth]:  <a href="https://ajp-psychiatryonline-org.myaccess.library.utoronto.ca/doi/pdf/10.1176/ajp.153.3.369">Bremner, Douglas J., et al. “Chronic PTSD in Vietnam Combat Veterans: Course of Illness and Substance Abuse.” American Journal of Psychiatry, ajp.psychiatryonline.org/doi/abs/10.1176/ajp.153.3.369?journalCode=ajp.</a>
