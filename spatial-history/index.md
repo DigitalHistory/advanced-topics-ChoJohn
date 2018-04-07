@@ -24,13 +24,39 @@ Toronto is an excellent candidate to be the next Silicon Valley because of its m
 “The third reason is infrastructure: there are few places anywhere that offered a full range of educational institutions from trade schools, to mid-level colleges, to the two great universities, Stanford and Berkeley.” [<a href="http://www.bbc.com/news/technology-26041341">1</a>]
 </em>
 </blockquote>
-Toronto is the home to 6 universities and 7 colleges. Toronto universities have a total of approximately 187,000 undergraduate students. University of Toronto with the largest number of undergraduate students in Canada and York University with the third largest[<a href="https://en.wikipedia.org/wiki/Education_in_Toronto">10</a>]. Not only is there abundance of higher education, they produce talented workers every year. Vint Cerf, the fathers of the Internet and the vice president and Chief Internet Evangelist for Google said:
+Toronto is the home to 6 universities and 7 colleges. Toronto universities have a total of approximately 187,000 undergraduate students. University of Toronto with the largest number of undergraduate students in Canada and York University with the third largest[<a href="https://en.wikipedia.org/wiki/Education_in_Toronto">10</a>]. Not only is there abundance of higher education, they produce talented workers every year. The book Clusters, Networks and Innovation, analysis the relation of regional competition to the innovation. The book states:
+
+<blockquote>
+<em>
+Just as the social structures and institutions within these regions encourage entrepreneurship and learning at the regional level, so the creation of a transnational technical community facilitates collaborations between individuals and producers in the two regions and supports a process of reciprocal industrial upgrading.” [<a href="https://books.google.ca/books?hl=en&lr=&id=s9RIa_JgUlMC&oi=fnd&pg=PR5&dq=clusters,+networks+and+innovation&ots=cV2AxROsVS&sig=xse5GjkoljQ6FObXrIt6lRgqt24#v=onepage&q=clusters%2C%20networks%20and%20innovation&f=false">13</a>]
+</em>
+</blockquote>
+
+Studies show that having companies and institutions in the same region helps push innovation forward. The higher concentration of the two will only increase the competition and grow the partnerships. Sharing ideas and collaborating together to improve their creation. Vint Cerf, the fathers of the Internet and the vice president and Chief Internet Evangelist for Google said:
+
 <blockquote>
 <em>
 “What results is a steady stream of well-trained engineers, business people, marketers, researchers; a vibrant venture capital community; a highly available stock market appetite for stock flotations; and people with experience in business, including how and why business failures happen.” [<a href="http://www.bbc.com/news/technology-26041341">1</a>]
 </em>
 </blockquote>
-In his interview, he discussed that a stream of well-trained workers is one of the key components to Silicon Valley’s success. University of Toronto is known for its prestigious education. University of Toronto’s Engineering, Computer Science, and Rotman School of Management program is ranked number one in Canada, and is well known for their research. OCAD is the fourth largest art school in North America and the oldest in Canada [<a href="https://en.wikipedia.org/wiki/Education_in_Toronto">10</a>]. Students around the world come here to learn about art. Infamous companies such as Google and Amazon already has their eye on Toronto. Google searched through cities across North America, Europe and Australia to build their high-tech neighbourhood or their “high-tech Quayside” [<a href="https://www.thestar.com/news/city_hall/2017/10/17/google-firm-wins-competition-to-build-high-tech-quayside-neighbourhood-in-toronto.html">3</a>]. Not only did Google find Toronto to be a great location for their innovation to start, Amazon is searching for their second headquarters. Amazon has included Toronto in their top 20 city list out of 238 cities that requested to be the home of Amazon’s HQ2 [<a href="https://www.amazon.com/b?ie=UTF8&node=17044620011">4</a>]. It is the only city to make the list in Canada. Toronto is the perfect location with infrastructure that produces the most talented workers and already acknowledged by the infamous tech companies.
+
+In his interview, he discussed that a stream of well-trained workers is one of the key components to Silicon Valley’s success. University of Toronto is known for its prestigious education. University of Toronto’s Engineering, Computer Science, and Rotman School of Management program is ranked number one in Canada, and is well known for their research. OCAD is the fourth largest art school in North America and the oldest in Canada [<a href="https://en.wikipedia.org/wiki/Education_in_Toronto">10</a>]. Students around the world come here to learn about art. This study states:
+
+<blockquote>
+<em>
+Recent studies of technological spillovers show a strong geographic association between university research and corporate patenting activity.
+</em>
+</blockquote>
+
+University of Toronto is a well known university for its research. The university has already made great contributions to the world through their research. Increase in research and patenting new technology will help grow a company and push competitions to innovate. Infamous companies such as Google and Amazon already has their eye on Toronto. Google searched through cities across North America, Europe and Australia to build their high-tech neighbourhood or their “high-tech Quayside” [<a href="https://www.thestar.com/news/city_hall/2017/10/17/google-firm-wins-competition-to-build-high-tech-quayside-neighbourhood-in-toronto.html">3</a>]. Not only did Google find Toronto to be a great location for their innovation to start, Amazon is searching for their second headquarters. Amazon has included Toronto in their top 20 city list out of 238 cities that requested to be the home of Amazon’s HQ2 [<a href="https://www.amazon.com/b?ie=UTF8&node=17044620011">4</a>]. It is the only city to make the list in Canada. Toronto is the perfect location with infrastructure that produces the most talented workers and already acknowledged by the infamous tech companies. In the article The next Silicon Valley? On the relationship between geographical clustering and public policy, They state that:
+
+<blockquote>
+<em>
+Harvard University Professor Michael Porter (2000a, p. 254), one of the leading advocates of cluster policy, defines a cluster as “... a geographically proximate group of interconnected companies and associated institutions in a particular field, linked by commonalities and complementarities”. Clusters are thus made up of various parties, ranging from specialized suppliers, service providers and firms in related industries, to universities, standards agencies and trade associations, while their geographical concentration is said to facilitate the movement of ideas and people between them, in the process promoting and reinforcing innovative behavior.
+</em>
+</blockquote>
+
+The universities and the companies that already exist here in Toronto, has created an innovative community. The additional companies transferring to Toronto will only fuel the innovative community.
 </p>
 
 <p style="text-align: right;">
@@ -52,23 +78,29 @@ Location is a key component to a company's success. The area must have a high po
 </br>
 
 Diversity is an important component for the success of Silicon Valley. Vivek Wadhwa, an entrepreneur, academic and an author explains that:
+
 <blockquote>
 <em>
 “What they don't realise is that what really makes the Valley tick is its culture of risk-taking and information sharing; people-to-people networks; openness to new ideas; and diversity - more than half of its innovators are foreign-born.” [<a href="http://www.bbc.com/news/technology-26041341">1</a>]
 </em>
 </blockquote>
-The diverse people interacting creates the inspiration engineers and artists require to innovate. There are many innovation hubs in Toronto where startups can get support through funding and network opportunities by being under the same roof with businessman, artist and engineers. Paul Saffo from DISCERN analytics, a company that offers insights as a service to investment professionals states:
+
+In the book <em>Municipalities and Multiculturalism: The Politics of Immigrations in Toronto</em> highlights that Toronto is among the highest with immigrant population and ethnocultural diversity that are extraordinary[<a href="https://books.google.ca/books?hl=en&lr=&id=ngMCCV64WrkC&oi=fnd&pg=PR11&dq=immigration+toronto&ots=AIDJywPZte&sig=JC5R-WfbsC15pipnKo9JapfMMj0#v=onepage&q=immigration%20toronto&f=false">14</a>]. The diverse people interacting creates the inspiration engineers and artists require to innovate. There are many innovation hubs in Toronto where startups can get support through funding and network opportunities by being under the same roof with businessman, artist and engineers. Paul Saffo from DISCERN analytics, a company that offers insights as a service to investment professionals states:
+
 <blockquote>
 <em>
 “But to succeed you need an ecology of fearless players from venture capitalists to banks, suppliers and myriad other supporting businesses unafraid to risk all by helping with often flakey and unpredictable start-ups. So if you want to be the next Silicon Valley, don't copy our success. Learn to support and encourage novel and ultimately successful failure” [<a href="http://www.bbc.com/news/technology-26041341">1</a>]
 </em>
 </blockquote>
+
 Paul Saffo highlights the importance of the type of support required for a company to succeed resulting in Silicon Valley’s success. He explains that investors should support the company through the up and downs. That is exactly the support MaRS, an innovation hub in Toronto provides. Their impact statement says:
 <blockquote>
+
 <em>
 “MaRS is not just about creating billion-dollar companies, but touching a billion lives. We are creating a vanguard of entrepreneurs working to improve society for future generations and making a difference beyond our borders.” [<a href="https://www.marsdd.com/about/story/">6</a>]
 </em>
 </blockquote>
+
 MaRS focus on the result instead of the process which is a factor for Silicon Valley’s immense success. Toronto offers a great location to the tech companies through its people and resources that is unique with their diverse culture.
 </p>
 
@@ -116,4 +148,8 @@ Sources:
 [11] : https://media.blogto.com/neighborhoods/kensington.jpg?width=1300&quality=70
 </br>
 [12] : http://urbantoronto.ca/picoftheday/renderings/MaRS-corner-lg.jpg
+</br>
+[13] : https://books.google.ca/books?hl=en&lr=&id=s9RIa_JgUlMC&oi=fnd&pg=PR5&dq=clusters,+networks+and+innovation&ots=cV2AxROsVS&sig=xse5GjkoljQ6FObXrIt6lRgqt24#v=onepage&q=clusters%2C%20networks%20and%20innovation&f=false
+</br>
+[14] : https://books.google.ca/books?hl=en&lr=&id=ngMCCV64WrkC&oi=fnd&pg=PR11&dq=immigration+toronto&ots=AIDJywPZte&sig=JC5R-WfbsC15pipnKo9JapfMMj0#v=onepage&q=immigration%20toronto&f=false
 </p>
